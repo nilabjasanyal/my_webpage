@@ -39,7 +39,8 @@ p{
   margin: 0 auto;
 }
 .cloud1{
-  top: 1px;
+  position: relative;
+  top: 7%;
 
 }
 .cloud2{
@@ -56,6 +57,10 @@ border-top-style: dotted;
 border-color: #e19cd6;
 border-width: 15px;
 width: 33%;
+}
+span:hover {
+  color: #a156a0;
+  font-size: 130%;
 }
 .header {
     word-spacing: 30px;
