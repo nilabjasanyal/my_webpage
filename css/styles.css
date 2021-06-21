@@ -63,7 +63,7 @@ span:hover {
   font-size: 130%;
 }
 .header {
-    word-spacing: 30px;
+    word-spacing: 7px;
     text-align: right;
     position: fixed;
     TOP: 0;
@@ -71,4 +71,11 @@ span:hover {
     width: 100%;
     border: 0px solid #73AD21;
     background-color: #ad8aea00;
+}
+li{
+  display: inline-block;
+  padding-left:10px;
+}
+li:hover{
+  font-size:140%;
 }
